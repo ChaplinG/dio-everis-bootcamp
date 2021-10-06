@@ -1,0 +1,10 @@
+pratica01_DB/ConnectionJDBC.java
+ pratica01_DB.ConnectionJDBC
+pratica02_JPQL/ConnectionFactory.java
+ pratica02_JPQL.ConnectionFactory
+pratica02_JPQL/Jogador.java
+ pratica02_JPQL.Jogador
+pratica02_JPQL/QueriesExecution.java
+ pratica02_JPQL.QueriesExecution
+pratica02_JPQL/JogadorDAO.java
+ pratica02_JPQL.JogadorDAO
